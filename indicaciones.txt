@@ -1,0 +1,5 @@
+NODE JS
+npm init -  full enter
+
+-npm i colors
+-dependencias : paquetes necesitarios para que funcione la aplicacion
